@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chat Demo App</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="enter_your_phone_number">Enter Your\nPhone Number</string>
+    <string name="_91">+91</string>
+    <string name="next">Continue</string>
+    <string name="edit">Edit</string>
+    <string name="enter_the_otp">Enter The\nOTP</string>
+    <string name="timer_end">00:00</string>
+    <string name="notes">Notes</string>
+    <string name="personal_messages_to_you">Personal messages to you</string>
+    <string name="user">User</string>
+    <string name="tap_to_review_50_notes">Tap to review 50+ notes</string>
+    <string name="interested_in_you">Interested In You</string>
+    <string name="premium_members_likes">Premium members can\nview all their likes at once</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="discover">Discover</string>
+    <string name="matches">Matches</string>
+    <string name="profile">Profile</string>
+</resources>
